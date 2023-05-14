@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Kgomotso196/Kgomotso196/blob/main/assets/backgroundImg.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=0A212&size=30&center=true&vCenter=true&width=450&lines=I'm+Troos;She/Her;Software+Engineer;South+African;Musicophile" alt="Software Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B0D53&width=435&lines=I'm+Troos.;She%2FHer%F0%9F%91%A7%F0%9F%8F%BF;Software+Engineer%F0%9F%92%BB;South+African;Musicophile%F0%9F%8E%A7" alt="Typing SVG" /></a>
 </div>
 
 - 🔭 I’m currently a student at Microverse. A remote program for Software Developers.
