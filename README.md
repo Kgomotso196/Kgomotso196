@@ -1,3 +1,4 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Kgomotso196/Kgomotso196" alt="Zero">
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Kgomotso196/Kgomotso196/blob/main/assets/backgroundImg.png"></div>
 
