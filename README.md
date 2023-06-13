@@ -30,6 +30,14 @@
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 </br></br>
 
+<h2 align="center">⚡STATS⚡</h2>
+![](https://github-readme-stats.vercel.app/api?username=Kgomotso196&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="right">
+<a href="https://github.com/KUBAHO3/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUBAHO3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
+</p>
+
 <h2>💭 Favorite quote</h2>
 <details>
     <summary>See quote</summary>
