@@ -14,11 +14,17 @@
 <p align="center"><a href="https://www.facebook.com/profile.php?id=100095370140469"><img src="https://img.shields.io/badge/Facebook-%235A5A5A?logo=facebook&logoColor=black" height=23></a> <a href="https://github.com/Kgomotso196"><img src="https://img.shields.io/badge/GitHub-%235A5A5A?logo=github&logoColor=black" height=23></a> <a href="mailto:kgomotsonacane@gmail.com"><img src="https://img.shields.io/badge/Gmail-%235A5A5A?logo=gmail&logoColor=black" height=23></a> <a href="https://www.linkedin.com/in/kgomotso-nacane/"><img src="https://img.shields.io/badge/LinkedIn-%235A5A5A?logo=linkedin&logoColor=black" height=23></a> <a href="https://twitter.com/t_r_o_o_s/"><img src="https://img.shields.io/badge/Twitter-%235A5A5A?logo=twitter&logoColor=black" height=23></a> <a href="https://www.youtube.com/@t.r.o.o.s"><img src="https://img.shields.io/badge/YouTube-%235A5A5A?logo=youtube&logoColor=black" height=23></a></p>
 </br>
 
-<h2>💡 Languages & Frameworks</h2>
+<h2>💡 Languages, Frameworks & Databases</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img title="Tailwind" alt="tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img title="React" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img title="Redux" alt="redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img title="Ruby" alt="ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"></code>
+<code><img title="Rails" alt="rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"></code>
 </br></br>
 
 <h2>🛠️ Useful Tools</h2>
