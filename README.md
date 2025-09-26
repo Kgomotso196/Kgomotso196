@@ -6,9 +6,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=500&color=111481&center=true&width=435&lines=I'm+Kgomotso(Troos).;She%2FHer%F0%9F%91%A7%F0%9F%8F%BF;Software+Engineer%F0%9F%92%BB;South+African🇿🇦;Musicophile%F0%9F%8E%A7" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 I’m currently a student at Microverse. A remote program for Software Developers.
-- 🌱 I’m currently learning Web Development.
-- 💻 I love writing and learning code.
+- 🎓 I’m a **graduate of Microverse**, a remote program for software developers.
+- 💻 I’m a **Software Engineer** with over a year of professional experience at **Uncap**, working on full-stack web development with React, Ruby on Rails, PostgreSQL and more.
+- 🎓 **ALX Software Engineering graduate** — practical software engineering training & projects.
+- 🧠 Always exploring new technologies and building cool things.
+- 🎶 Outside of coding, I’m a big **R&B** fan, love playing chess ♟️ and exploring creative ideas.
 
 <h2>📫 How to reach me</h2>
 <p align="center"><a href="https://www.facebook.com/profile.php?id=100095370140469"><img src="https://img.shields.io/badge/Facebook-%235A5A5A?logo=facebook&logoColor=black" height=23></a> <a href="https://github.com/Kgomotso196"><img src="https://img.shields.io/badge/GitHub-%235A5A5A?logo=github&logoColor=black" height=23></a> <a href="mailto:kgomotsonacane@gmail.com"><img src="https://img.shields.io/badge/Gmail-%235A5A5A?logo=gmail&logoColor=black" height=23></a> <a href="https://www.linkedin.com/in/kgomotso-nacane/"><img src="https://img.shields.io/badge/LinkedIn-%235A5A5A?logo=linkedin&logoColor=black" height=23></a> <a href="https://twitter.com/t_r_o_o_s/"><img src="https://img.shields.io/badge/Twitter-%235A5A5A?logo=twitter&logoColor=black" height=23></a> <a href="https://www.youtube.com/@t.r.o.o.s"><img src="https://img.shields.io/badge/YouTube-%235A5A5A?logo=youtube&logoColor=black" height=23></a></p>
@@ -41,9 +43,19 @@
 <p align="center">
 <a href="https://github.com/Kgomotso196/">
       <img src="https://github-readme-stats.vercel.app/api?username=Kgomotso196&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgomotso196&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgomotso196&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
+</br></br>
+
+<h2>🎉 Fun Facts About Me</h2>
+<ul>
+  <li>🎵 Musicophile: huge fan of R&B</li>
+  <li>♟ Chess enthusiast: love strategizing and solving complex problems</li>
+  <li>🌍 Global learner: collaborated with devs worldwide through Microverse</li>
+  <li>💡 Always curious: enjoy exploring new tech, creative coding, and side projects</li>
+  <li>😎 Fun side: sometimes make coding + music mashups just for kicks</li>
+</ul>
 </br></br>
 
 <h2>💭 Favorite quote</h2>
