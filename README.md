@@ -8,7 +8,7 @@
 
 - 🎓 I’m a **graduate of Microverse**, a remote program for software developers.
 - 💻 I’m a **Software Engineer** with over a year of professional experience at **Uncap**, working on full-stack web development with React, Ruby on Rails, PostgreSQL and more.
-- 🎓 **ALX Software Engineering graduate** — practical software engineering training & projects.
+- 🎓 **ALX Software Engineering graduate**, practical software engineering training & projects.
 - 🧠 Always exploring new technologies and building cool things.
 - 🎶 Outside of coding, I’m a big **R&B** fan, love playing chess ♟️ and exploring creative ideas.
 
